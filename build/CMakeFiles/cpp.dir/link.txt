@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/cpp.dir/home/ghj/cpp/src/dijkstra.cpp.o  -o cpp 
